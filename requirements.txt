@@ -110,9 +110,14 @@
 # websockets==14.2
 # yarl==1.20.1
 
+# pandas<=2.3.0
+# streamlit<=1.45.1
+# numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp310-cp310-win_amd64.whl#sha256=e824ec3b279f4c5207736c83ac2f2dc79b489e08501a4ea9e3fc178c45db289b
+# matplotlib<=3.10.3
+
 pandas<=2.3.0
 streamlit<=1.45.1
-numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp310-cp310-win_amd64.whl#sha256=e824ec3b279f4c5207736c83ac2f2dc79b489e08501a4ea9e3fc178c45db289b
+numpy==2.0.1
 matplotlib<=3.10.3
 
 # < = ≤
